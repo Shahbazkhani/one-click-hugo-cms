@@ -1,2 +1,1 @@
-# Hugo template for Netlify CMS with Netlify Identity
-
+# Hugo template for Netlify CMS 
